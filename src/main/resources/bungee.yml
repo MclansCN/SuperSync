@@ -1,0 +1,4 @@
+name: SuperSync
+main: com.mclans.plugin.supersync.bungeecord.SuperSyncBC
+version: 0.1.0
+author: Dr.JIN

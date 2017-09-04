@@ -1,0 +1,6 @@
+name: SuperSync
+main: com.mclans.plugin.supersync.SuperSync
+version: 0.1.0
+author: Dr.JIN
+description: Player data sync under BungeeCord
+softdepend: [ProtocalLib]

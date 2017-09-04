@@ -1,0 +1,6 @@
+Host: localhost
+Port: 3306
+Database: database
+Username: root
+Password: ''
+Thread: 10
